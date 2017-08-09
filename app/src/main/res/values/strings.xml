@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ServiceTest</string>
+    <string name="serv_name">:com.servtest.serv</string>
+</resources>
